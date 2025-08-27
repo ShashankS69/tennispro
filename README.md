@@ -6,7 +6,7 @@ A visually rich, modern tennis match tracking and social app built with Flutter.
 
 ## Features
 
-- **Beautiful UI**: Custom backgrounds, modern cards, and stylish buttons throughout the app.
+- **UI**: Custom backgrounds, modern cards, and stylish buttons throughout the app.
 - **User Authentication**: Sign up, log in, and password reset flows.
 - **Player History**: View match history with detailed results and easy navigation.
 - **Match Tracking**: Start and track tennis matches, record scores, and save results.
